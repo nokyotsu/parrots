@@ -29,23 +29,19 @@ In this lecture he talks about his experiences researching and writing for his b
 
 ## History
 
-* **June 2010.** [navarroj][] started writing down the first raw draft of the transcript
-  in English. Although mostly complete, this first version was far from perfect—not
-  being a native speaker there were a few places where he couldn't get the precise words
-  from Douglas, and some misspellings invariably slipped through.
+* **August 2015.** [navarroj][] moves the sources of the transcript into this public
+  github repository. Further editions to the transcript, or translations into other
+  languages, can be added as pull requests.
 
-  As an experiment in ‘openness’ he made the sources of the transcript publicly
-  editable, so by-passers could contribute adding the missing pieces and generally
-  improving the transcript. The backend, hosted at navarroj.com/parrots, was just a
-  bunch of messy perl scripts on top of svn.
+* **August 2015.** [arnauld][] syncs the transcript to provide [English subtitles][subs_en]
+  at amara.org.
 
-* **July 2010.** This turned out to be a fantastic idea. Already a month after starting
-  the project the first edits, from anonymous contributors over the internet, started
-  coming in.
+* **August 2014.** The transcript site is moved to
+  [nokyotsu.com/parrots](http://nokyotsu.com/parrots/). The previous link still works,
+  but now it's just a redirect.
 
-* **May 2011.** Nearly a year after the project started the transcript was all completed
-  by anonymous contributors. Although there were no more missing bits in the text, small
-  fixes and additional improvements kept arriving throughout the years.
+* **March 2013.** [maldoreur][] starts the first [Greek translation][subs_el] and syncs
+  subtitles with the UCSB video at amara.org.
 
 * **June 2011.** [navarroj][] publishes a series of blog posts at
   [*Pedazos de Carbono*](http://pedazosdecarbono.blogspot.com/) translating the
@@ -56,19 +52,22 @@ In this lecture he talks about his experiences researching and writing for his b
   [*el baiji*](http://pedazosdecarbono.blogspot.com/2011/06/loros-el-universo-y-todo-el-kakapo.html), and
   [*el humano*](http://pedazosdecarbono.blogspot.com/2011/07/loros-el-universo-y-todo-el-humano.html).
 
-* **March 2013.** [maldoreur][] starts the first [Greek translation][subs_el] and syncs
-  subtitles with the UCSB video at amara.org.
+* **May 2011.** Nearly a year after the project started the transcript was all completed
+  by anonymous contributors. Although there were no more missing bits in the text, small
+  fixes and additional improvements kept arriving throughout the years.
 
-* **August 2014.** The transcript site is moved to
-  [nokyotsu.com/parrots](http://nokyotsu.com/parrots/). The previous link still works,
-  but now it's just a redirect.
+* **July 2010.** Already a month after starting the project the first edits, from
+  anonymous contributors over the internet, started coming in.
 
-* **August 2015.** [arnauld][] syncs the transcript to provide [English subtitles][subs_en]
-  at amara.org.
+* **June 2010.** [navarroj][] wrote the first basic draft of the transcript in English.
+  Although mostly complete, this first version was far from perfect—not being a native
+  speaker there were a few places where he couldn't get the precise words from Douglas,
+  and some misspellings invariably slipped through.
 
-* **August 2015.** [navarroj][] moves the sources of the transcript into this public
-  github repository. Further editions to the transcript, or translations into other
-  languages, can be added as pull requests.
+  As an experiment in ‘openness’ he made the sources of the transcript publicly
+  editable, so by-passers could contribute adding the missing pieces and generally
+  improving the transcript. The backend, hosted at navarroj.com/parrots, was just a
+  bunch of messy perl scripts on top of svn.
 
 [navarroj]: https://github.com/navarroj
 [maldoreur]: http://amara.org/en/profiles/profile/91116/
