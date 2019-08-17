@@ -12,9 +12,9 @@ when we consume them. The price of gasoline has been falling in real dollars
 and the vehicles get bigger and bigger, we have the Selfish Useless
 Vehicles---I think they're called---the SUV's.* ((Laughter.)) ((Applause.))
 
-You know, I have to say as a brit, you know we sit and think, ``the americans
+You know, I have to say as a brit, you know we sit and think, "the americans
 are complaining again because their gas prices have reached now nearly a
-quarter of what we pay.'' ((Laughter.))
+quarter of what we pay." ((Laughter.))
 
 **Questioner 1:** *So, I just wonder whether you think that a good solution is that
 if we would pay the true cost of things, if we would pay the ten dollars a
@@ -45,7 +45,7 @@ continually inform ourselves, be as aware as possible of what is actually
 happening, how if that kind of feedback loop saying now we're going to make
 the true cost of the damage we're causing be part of what you have to pay,
 then that may be very well be a very good answer; but I'm also worried that it
-may *not* be the answer. Which is a complicated way of saying ``I don't know.''
+may *not* be the answer. Which is a complicated way of saying "I don't know."
 ((Laughter.)) ((Applause.))
 
 **Questioner 2:** *Two questions. First. D'you know where your towel is?*
@@ -87,21 +87,21 @@ I think we have both lots there in our genes, I'm afraid. ((Applause.))
 **Questioner 3:** *I'm absolutely going to kill myself if I get out of here without
 asking this. This question occurred to me when my friend bodily forced me to
 pick up the first book in The Hitchhiker's Guide and I read the very first
-sentences on the very first paragraph, ``What on God's green Earth does this man
-has against digital watches!?''* ((Laughter.))
+sentences on the very first paragraph, "What on God's green Earth does this man
+has against digital watches!?"* ((Laughter.))
 
 Well I have to admit they've improved since ((laughter)) I actually wrote that
 bit. But if you think about it, I mean the first digital watches which were...
 You look at a regular watch with hands and you got a pie chart. Remember the
 time when were used to get very excited about pie charts being the thing that
-computer did for us? ((waves in exaggeration)) ``Uhhh! Pie charts!''
+computer did for us? ((waves in exaggeration)) "Uhhh! Pie charts!"
 ((Laughter.)) But at the same time when we were getting terribly excited about
 pie charts and what they could do for our understanding of the world, we were
-saying, ``We don't want pie charts on our wrists. That's old fashioned
+saying, "We don't want pie charts on our wrists. That's old fashioned
 technology. No what we want is not something you just glance at and see what
 the time is. We want something that you've got to go into a dark corner and put
-down your suitcase and press a button in order to read, `Oh it's 11:43,
-now what is ...? uhm ...? How long is that before twelve o'clock?' '' And this
+down your suitcase and press a button in order to read, 'Oh it's 11:43,
+now what is ...? uhm ...? How long is that before twelve o'clock?'" And this
 was progress. ((Laughter.))
 
 But you see, I mean the great thing about human beings, I mean---while we make
@@ -113,13 +113,13 @@ once. ((Laughter.)) I mean like bathroom faucets, I mean it's very very simple,
 you turn it on the water comes out, you turn it off the water stops. And we
 kind of got the hang of that. That works. But it's amazing you go into, you
 know, a hotel lobby or an airport, and you approach the basin with a certain
-amount of sort of anxiety, you know. ((Laughter.)) ``What do I do? Do I turn
+amount of sort of anxiety, you know. ((Laughter.)) "What do I do? Do I turn
 something? Do I push something? Do I *pull* something? Do I knee it!?
-((Laughter.)) Do I just have to sort of *be* in near it?'' ((Laughter.))
+((Laughter.)) Do I just have to sort of *be* in near it?" ((Laughter.))
 
 And once the water started to flow because it has picked up some sort of
-brainwave energy from me or whatever. ((Laughter.)) ``So, now how do I stop it?
-Is it my job to stop it? ((Laughter.)) Would it stop itself?'' I mean, I think
+brainwave energy from me or whatever. ((Laughter.)) "So, now how do I stop it?
+Is it my job to stop it? ((Laughter.)) Would it stop itself?" I mean, I think
 we've got the faucet down OK. But, I just think it's wonderful we just sort of keep
 on inventing it even though it works, because it's the way of getting
 ourselves off local maximums isn't it?

@@ -65,8 +65,8 @@ a detective from the 19th century, teaming him up with a detective from the
 late 20th century, and giving them this problem to work on: that a suspect in
 a crime was seen one day to be walking down the street in the middle of
 London, and the next day was seen somewhere out in the desert in the middle
-of New Mexico. Now the 19th century detective will say, ``Well, I haven't the
-faintest idea. I mean it must be some species of magic has happened.'' And he
+of New Mexico. Now the 19th century detective will say, "Well, I haven't the
+faintest idea. I mean it must be some species of magic has happened." And he
 would have no idea about how to begin to solve what has happened here. For
 the 20th century detective, now he may never know whether the guy went on
 British Airways or United or American or where he hired his car from, or all
@@ -87,7 +87,7 @@ we are losing species after species after species, day after day, just
 because we're burning the stuff down for firewood. And this is a kind of
 terrible indictment of our understanding. But, you see, we make another
 mistake, because we think somehow, this is all right in some fundamental kind
-of way, because we think that this is all sort of ``meant to happen.''
+of way, because we think that this is all sort of "meant to happen."
 
 Now let me explain how we get into that kind of mindset, because it's exactly
 the same kind of mindset that the Kakapo gets trapped in. Because, what has
@@ -99,7 +99,7 @@ toolmakers, because we take from our environment the stuff that we need to
 do what we want to do and it's always been very successful for us ...
 
 I'll tell you what's happened. It's as if we've actually kind of put the sort
-of ``pause'' button on our own process of evolution, because we have put a
+of "pause" button on our own process of evolution, because we have put a
 buffer around us, which consists of---you know---medicine and education and
 buildings, and all these kinds of things that protect us from the normal
 environmental pressures. And, it's our ability to make tools that enables us
@@ -122,7 +122,7 @@ we're actually having.
 
 Now imagine---if you will---an early man, and let's just sort of see how this
 mindset comes about. He's standing, surveying his world at the end of the day.
-And he looks at it and thinks, ``This is a very wonderful world that I find
+And he looks at it and thinks, "This is a very wonderful world that I find
 myself in. This is pretty good. I mean, look, here I am, behind me is the
 mountains, and the mountains are great because there are caves in the
 mountains where I can shelter, either from the weather or from bears that
@@ -133,39 +133,39 @@ keep me going. And here's a stream going through which has got fish running
 through it, and the water is delicious, and I drink the water, and everything's
 fantastic.
 
-``And there's my cousin Ug. And Ug has caught a mammoth! Yay!! ((claps)). Ug
+"And there's my cousin Ug. And Ug has caught a mammoth! Yay!! ((claps)). Ug
 has caught a mammoth! Mammoths are terrific! There's nothing greater than a
 mammoth, because a mammoth, basically you can wrap yourself in the fur from
 the mammoth, you can eat the meat of the mammoth, and you can use the bones of
 the mammoth, to catch other mammoths! ((Laughter.))
 
-``Now this world is a fantastically good world for me.'' And, part of how we
+"Now this world is a fantastically good world for me." And, part of how we
 come to take command of our world, to take command of our environment, to make
 these tools that are actually able to do this, is we ask ourselves questions
-about it the whole time. So this man starts to ask himself questions. ``This
-world,'' he says, ``well, who ... so, so who made it?'' Now, of course he
+about it the whole time. So this man starts to ask himself questions. "This
+world," he says, "well, who ... so, so who made it?" Now, of course he
 thinks that, because he makes things himself, so he's looking for someone who
-will have *made* this world. He says, ``So, who would have made this world?
+will have *made* this world. He says, "So, who would have made this world?
 Well, it must be something a little bit like me. Obviously much much bigger,
 ((laughing)) and necessarily invisible, ((laughter)) but he would have made
-it. Now, why did he make it?''
+it. Now, why did he make it?"
 
-Now, we always ask ourselves ``why'' because we look for intention around us,
+Now, we always ask ourselves "why" because we look for intention around us,
 because we always do something with intention. You know, we boil an
 egg in order to eat it. So, we look at the rocks and we look at the trees, and
 we wonder what intention is here, even though it doesn't have intention. So we
 think, what did this person who made this world intend it for. And this is the
-point where you think, ``Well, it fits *me* very well. ((Laughter.)) You know,
+point where you think, "Well, it fits *me* very well. ((Laughter.)) You know,
 the caves and the forests, and the stream, and the mammoths.
 He must have made it for me! I mean, there's no other conclusion you can
-come to.''
+come to."
 
 And it's rather like a puddle waking up one morning---I know they don't normally
 do this, but allow me, I'm a science fiction writer. ((Laughter.)) A puddle
-wakes up one morning and thinks, ``This is a very interesting world I find myself
+wakes up one morning and thinks, "This is a very interesting world I find myself
 in. It fits me very neatly.
 In fact, it fits me so neatly, I mean, really precise, isn't it?
-((Laughter.)) It must have been made to have me in it!'' And the sun rises, and
+((Laughter.)) It must have been made to have me in it!" And the sun rises, and
 he's continuing to narrate the story about this hole being made to have him in
 it. And the sun rises, and gradually the puddle is shrinking and shrinking and
 shrinking, and by the time the puddle ceases to exist, it's still thinking,
@@ -192,8 +192,8 @@ little ball of life, is something we can just screw about with any way we
 like.
 
 And maybe we can't. Maybe we should be looking after it just a little bit
-better. Not for the world's sake---we talk rather grandly about ``saving the
-world.'' We don't have to save the world--the world's fine! The world has been
+better. Not for the world's sake---we talk rather grandly about "saving the
+world." We don't have to save the world--the world's fine! The world has been
 through five periods of mass extinction. Sixty-five million years ago when, as
 it seems, a comet hit the Earth at the same time that there were vast volcanic
 eruptions in India, which saw off the dinosaurs, and something like 90% of the
