@@ -66,15 +66,15 @@ management, there's a problem. ((Laughter.))
 So, I suddenly became very interested in what it must actually sound like in
 the Yangtze River. Now, we've gone to record some BBC Radio programmes while we
 are there, so as well as Mark Carwardine the zoologist, we also had a sound
-recordist from the BBC. So I said to him, ``Could we actually drop a microphone
+recordist from the BBC. So I said to him, "Could we actually drop a microphone
 into the Yangtze so that we can see what it actually sounds like in the
-river?'' And he said, ``Well you should have said that before we left London.''
-((Laughter.)) And I said, ``Why?'' And he said, ``Well, cause I just could
+river?" And he said, "Well you should have said that before we left London."
+((Laughter.)) And I said, "Why?" And he said, "Well, cause I just could
 have checked out a waterproof microphone but, you know, you didn't mention
-anything about recording under water.'' And I said, ``No, I didn't. Is there
-anything we could do about it?'' And he said, ``Well there is, there is
+anything about recording under water." And I said, "No, I didn't. Is there
+anything we could do about it?" And he said, "Well there is, there is
 actually one technique they teach us at the BBC for recording under water in
-an emergency. ((Laughter.)) Do either of you have condoms with you?''
+an emergency. ((Laughter.)) Do either of you have condoms with you?"
 
 And we didn't. Wasn't that kind of trip. ((Laughter.)) But we decided we'd
 better go and buy some. And so we went into the streets of Shanghai trying
@@ -107,33 +107,33 @@ to buy some condoms, and I just want to read you a little passage about this.
 > delicate little mime, ((laughter)) and at last the penny dropped.
 > ((Laughter.))
 >
-> ``Ah!'' the first girl said, suddenly wreathed in smiles. ``Ah yes!''
+> "Ah!" the first girl said, suddenly wreathed in smiles. "Ah yes!"
 >
 > They all beamed delightedly at us as they got the idea.
 >
-> ``You do understand?'' l asked.
+> "You do understand?" I asked.
 >
-> ``Yes! Yes, I understand.''
+> "Yes! Yes, I understand."
 >
-> ``Do you have any?''
+> "Do you have any?"
 >
-> ``No,'' she said. ``Not have.''
+> "No," she said. "Not have."
 >
-> ``Oh.''
+> "Oh."
 >
-> ``But, but, but ...''
+> "But, but, but ..."
 >
-> ``Yes?''
+> "Yes?"
 >
-> ``I say you where you go, OK?''
+> "I say you where you go, OK?"
 >
-> ``Thank you, thank you very much. Yes.''
+> "Thank you, thank you very much. Yes."
 >
-> ``You go 616 Nanjing Road. OK. They have there. You ask `rubberover'. OK?''
+> "You go 616 Nanjing Road. OK. They have there. You ask 'rubberover'. OK?"
 >
-> ``Rubberover?''
+> "Rubberover?"
 >
-> ``Rubberover. You ask. They have. OK. Have nice day.'' ((Laughter.))
+> "Rubberover. You ask. They have. OK. Have nice day." ((Laughter.))
 >
 > She giggled happily about this with her hand over her mouth.
 >
@@ -144,7 +144,7 @@ to buy some condoms, and I just want to read you a little passage about this.
 >
 > When we reached 616 Nanjing Road, which turned out to be another, smaller
 > department store, and not a knocking shop as we had been half-suspecting, our
-> pronunciation of `rubberover' seemed to let us down and produce another wave
+> pronunciation of 'rubberover' seemed to let us down and produce another wave
 > of baffled incomprehension.
 >
 > This time I went straight for the mime that had served us so well before,
@@ -156,7 +156,7 @@ to buy some condoms, and I just want to read you a little passage about this.
 > Success, we thought, opened the packet and found it to contain a bubble sheet
 > of pills.
 >
-> ``Right idea,'' said Mark, with a sigh. ``Wrong method.'' ((Laughter.))
+> "Right idea," said Mark, with a sigh. "Wrong method." ((Laughter.))
 >
 > We were quickly floundering again as we tried to explain to the now slightly
 > affronted lady that it wasn't precisely what we were after. By this time a
@@ -176,21 +176,21 @@ to buy some condoms, and I just want to read you a little passage about this.
 > and we would be very grateful if he could explain that for us.
 >
 > He looked puzzled, picked up the rejected packet lying on the counter in
-> front of the affronted shop assistant and said, ``Not want rubberover. This
-> better.'' ((Laughter.))
+> front of the affronted shop assistant and said, "Not want rubberover. This
+> better." ((Laughter.))
 >
-> ``No,'' Mark said. ``We definitely want rubberover, not pills.''
+> "No," Mark said. "We definitely want rubberover, not pills."
 >
-> ``Why want rubberover? Pill better.'' ((Laughter.))
+> "Why want rubberover? Pill better." ((Laughter.))
 >
-> ``You tell him,'' said Mark. ((Laughter.))
+> "You tell him," said Mark. ((Laughter.))
 >
-> ``It's to record dolphins,'' I said. ((Laughter.)) ``Or not the actual
+> "It's to record dolphins," I said. ((Laughter.)) "Or not the actual
 > dolphins in fact. What we want to record is the noise in the Yangtze
-> that ... it's to go over the microphone, you see, and ...''
+> that ... it's to go over the microphone, you see, and ..."
 >
-> ``Oh, just tell him you want to fuck someone,'' said the sound recordist.
-> ((Laughter.)) ``And you can't wait.'' ((Laughter.))
+> "Oh, just tell him you want to fuck someone," said the sound recordist.
+> ((Laughter.)) "And you can't wait." ((Laughter.))
 >
 > But by now the young man was edging nervously away from us, suddenly
 > realising that we were dangerously insane, ((laughter)) and should simply be
@@ -203,11 +203,11 @@ to buy some condoms, and I just want to read you a little passage about this.
 > We bought nine, just to be safe. ((Laughter.)) ((Applause.))
 
 So a couple of days later we were standing on the banks of the Yangtze, on a
-very {{desperate}} drizzly grey day. And we put the microphone in this little
+very desperate drizzly grey day. And we put the microphone in this little
 sort of pink thing, ((laughter)) and dropped it into the water. And, I don't
 usually do impressions but I'm going to do for you an impression of what it
 sounds like under the surface of the Yangtze River. And it's something like
-this *``pfffffffffff''*. The Yangtze River ladies and gentleman.
+this *"pfffffffffff"*. The Yangtze River ladies and gentleman.
 ((Laughter.)) ((Applause.))
 
 And, I suddenly realized what an appalling thing we've
@@ -221,8 +221,7 @@ Yangtze at one of the most beautiful and most spectacular sites in all world,
 the [[Three Gorges]], and they're damming it there which means that the Yangtze
 Dolphin will at that point definitely go extinct.[^extinct]
 
-[^extinct]: According to Wikipedia, the [[Yangtze River Dolphin]] was indeed declared
-as functionally extinct as of 2006.
+[^extinct]: According to Wikipedia, the [[Yangtze River Dolphin]] was indeed declared as functionally extinct as of 2006.
 
 And it's terribly sad. The peculiar thing about dams is that we keep on
 building them and none of them ever do any good. It's not quite true, because
