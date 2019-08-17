@@ -2,13 +2,13 @@
 
 Sometime in about the mid 1980s, the phone rang. ((Laughter.))
 
-And the voice said, ``We want you to go to [[Madagascar]]. We want you to look
+And the voice said, "We want you to go to [[Madagascar]]. We want you to look
 for a very rare form of lemur, called the [[Aye-aye]]. The plane leaves in two
-weeks, we would like you to be on it.'' Now I---assuming they've got the wrong
-number---said ``yes!'' before they could discover their mistake. ((Laughter.))
-But in fact it turned out that they decided, ``Well, here is somebody who
+weeks, we would like you to be on it." Now I---assuming they've got the wrong
+number---said "yes!" before they could discover their mistake. ((Laughter.))
+But in fact it turned out that they decided, "Well, here is somebody who
 doesn't know anything about lemurs, anything about the Aye-aye, anything about
-Madagascar, let's send him.'' ((Laughter.))
+Madagascar, let's send him." ((Laughter.))
 So I started to try and find out something about it, and it turns out
 it's very interesting.
 
@@ -30,7 +30,7 @@ And took with it a representative sample of the livestock of the period, which
 included a lot of lemurs. And they basically sort of sat there for millions
 and millions of years in glorious isolation. While, in the rest of the world,
 a new creature emerged. A new creature arrived that was much more intelligent
-than the lemurs---according to it---, ((Laughter)) much more competitive, much
+than the lemurs---according to it---, ((Laughter.)) much more competitive, much
 more aggressive, and incredibly interested in all of things you could do with
 twigs. ((Laughter.))
 
@@ -46,7 +46,7 @@ everywhere in the world other than Madagascar. Because Madagascar was right
 out in the middle of the Indian Ocean and they couldn't get there.
 
 They couldn't get there until about 1500 years ago, when due to startling
-advances in twig technology ((laughter)) they were able to get there in boats,
+advances in twig technology ((laughter.)) they were able to get there in boats,
 and eventually planes. And suddenly the lemurs, that have had this place for
 themselves for millions and millions and millions of years, were suddenly facing
 their old enemy: the monkey.
@@ -57,7 +57,7 @@ lemur called the [[Golden Bamboo Lemur]], which went straight to the number one
 of endangered lemurs---but the Aye-aye is a very very peculiar animal. It looks
 like the agglomeration of all sorts of other different animals. So, for
 instance, it has a sort of foxy ears, and it has a little sort of bitty rabbit's
-teeth, and it has a kind of ostrich {{feathered}} tail, and it has very weird
+teeth, and it has a kind of ostrich feathered tail, and it has very weird
 eyes, actually it has [[Marty Feldman]]'s eyes. ((Laughter.)) The kind of sort
 of looking slightly beyond you into a sort of other dimension just over your
 left shoulder. But it also has one very very very peculiar characteristic,
@@ -87,12 +87,12 @@ coast of Madagascar, called [[Nosy Mangabe]], and it's just off the northwest ti
 of Madagascar. And now to get there, what you have to do, is you have to fly
 in a 747 to Madagascar. And then in a terrible old *jalopy* of an airplane from
 Madagascar up to the northwest port. And from there you have to go in a kind
-of decreasingly excellent series of carts and trucks and so on, ((Laughter)) to
+of decreasingly excellent series of carts and trucks and so on, ((Laughter.)) to
 a little port where there was going to be a boat that was going to take us to
 Nosy Mangabe. So we arrived there, and arrived at the port, and we were
 looking around for the boat that was going to take us to Nosy Mangabe, and we
-couldn't see it. And we kept in turn asking people--you know--``where is this
-boat?'', and they would say ``it's there! it's there!'', and we couldn't see what
+couldn't see it. And we kept in turn asking people---you know---"where is this
+boat?", and they would say "it's there! it's there!", and we couldn't see what
 they were pointing at because there was this terrible rotting old hulk in the
 way. ((Laughter.))
 
@@ -110,14 +110,14 @@ night after night, traipsing through the rainforest, in what can only be
 described as: the rain. ((Laughter.))
 
 Getting rather ratty, and basically we've just spent night after night sort
-of huddled under tarpaulins, looking at us, saying ``stop raining.'' And
-every now and then we would sort of, ``gah, I've been trying to find this
-damn animal.'' Actually, this is wonderful, we found this hut that used to be this sort of game warden's---not game warden---a ranger's hut. And it's a tiny little hut. And it was actually full of wild life. ((Laughter.)) What happened, you see,
+of huddled under tarpaulins, looking at us, saying "stop raining." And
+every now and then we would sort of, "gah, I've been trying to find this
+damn animal." Actually, this is wonderful, we found this hut that used to be this sort of game warden's---not game warden---a ranger's hut. And it's a tiny little hut. And it was actually full of wild life. ((Laughter.)) What happened, you see,
 is you would open the door, and you hear all this noise
 ((makes chomping noises)) and you turn on the light and it would all stop.
 ((Laughter.)) And you would see these little giant spiders
 around the wall, each with  a sort of half-eaten *bug* in their mouth!
-((Laughter.)) And say, ``yes?'' ((Laughter.)) And you turn the light out
+((Laughter.)) And say, "yes?" ((Laughter.)) And you turn the light out
 and ((makes chomping noises)).
 
 So this is our shelter, you know, we were having a great time. But one
@@ -154,8 +154,8 @@ confrontation like this to suddenly realise how sort of broad and deep your
 family goes. So I thought, well this is terribly interesting. And I talked to
 the guy who had been kind of my guide out there, who was a zoologist who had
 been sent along to make sure I didn't sort of fall out of the trees and so on.
-And his name was [[Mark Carwardine]], and I said to him, ``I would love it if
+And his name was [[Mark Carwardine]], and I said to him, "I would love it if
 we could ..., do you fancy the idea of sort of going around the world and
 looking for other rare and endangered species of animals, maybe doing a book
-about this?'' He said, ``well, that's what I do for a living!'' ((Laughter.))
-``So yeah, OK.'' ((Laughter.))
+about this?" He said, "well, that's what I do for a living!" ((Laughter.))
+"So yeah, OK." ((Laughter.))
