@@ -54,8 +54,8 @@ all americans you ain't know the difference anyway. ((Laughter.))
 > than anyone else on earth. His name is Dr. Struan Sutherland, and he has
 > devoted his entire life to a study of venom.
 >
-> ``And I'm bored at talking about it,'' he said when we went along to see him
-> the next morning laden with tape recorders and notebooks. ``Can't stand
+> "And I'm bored at talking about it," he said when we went along to see him
+> the next morning laden with tape recorders and notebooks. "Can't stand
 > all these poisonous creatures, all these snakes and insects and fish and
 > things. Wretched things, biting everybody. And then people expect me to
 > tell them what to do about it. I'll tell them what to do. Don't get bitten
@@ -64,11 +64,11 @@ all americans you ain't know the difference anyway. ((Laughter.))
 > ((Laughter.)) Talk to you all you like about hydroponics. Fascinating stuff,
 > growing plants artificially in water, very interesting technique. We'll need
 > to know all about it if we're going to go to Mars and places. Where did you
-> say you were going?''
+> say you were going?"
 >
-> ``Komodo.''
+> "Komodo."
 >
-> ``Well don't get bitten, that's all I can say. ((Laughter.)) And don't come
+> "Well don't get bitten, that's all I can say. ((Laughter.)) And don't come
 > running to me if you do because you won't get here in time, ((laughter)) and
 > anyway I've got enough on my plate. Look at this office, full of poisonous
 > animals all over the place. See this tank, it's full of [[fire ants]]. Venomous
@@ -77,18 +77,18 @@ all americans you ain't know the difference anyway. ((Laughter.))
 > I can't remember where I put them. There's some tea but it's not very good.
 > Anyway, sit down for heaven's sake.
 >
-> ``So, you're going to Komodo. Well, I don't know why you want to do that but I
+> "So, you're going to Komodo. Well, I don't know why you want to do that but I
 > suppose you have your reasons. There are fifteen different types of snake on
 > Komodo, and half of them are poisonous. The only potentially deadly ones are
 > the [[Russell's Viper]], the [[Bamboo Viper|Trimeresurus stejnegeri]]
 > and the [[Indian Cobra]].
 >
-> ``The Indian cobra is the fifteenth deadliest snake in the world, and all the
+> "The Indian cobra is the fifteenth deadliest snake in the world, and all the
 > other fourteen are here in Australia. ((Laughter.)) That's why it's so hard
 > for me to find time to get on with my hydroponics, with all these snakes all
 > over the place.
 >
-> ``And spiders. The most poisonous spider is the [[Sydney funnel-web]], we get
+> "And spiders. The most poisonous spider is the [[Sydney funnel-web]], we get
 > about five hundred people a year bitten by spiders. A lot of them used to
 > die, so I had to develop an antidote to stop people bothering me with it all
 > the time. ((Laughter.)) Took us years. Then we developed this snake bite
@@ -96,9 +96,9 @@ all americans you ain't know the difference anyway. ((Laughter.))
 > a snake, ((laughter)) you usually know, but the kit is something that will
 > detect what type you've been bitten by so you can treat it properly.
 >
-> ``Would you like to see a kit? I've got a couple here in the venom fridge.
+> "Would you like to see a kit? I've got a couple here in the venom fridge.
 > Let's have a look. Ah look, the cakes are in here too. ((Laughter.)) Quick,
-> have one while they're still fresh. Fairy cakes, I baked 'em myself''
+> have one while they're still fresh. Fairy cakes, I baked ’em myself"
 >
 > He handed round the snake venom detection kits and these home baked fairy
 > cakes and retreated back to his desk, where he beamed at us cheerfully from
@@ -108,10 +108,10 @@ all americans you ain't know the difference anyway. ((Laughter.))
 > first time in a panic. And then we asked him how many of the snakes he had
 > been bitten by himself.
 >
-> ``None of 'em,'' he said. ``Another area of expertise I've developed is that
+> "None of ’em," he said. "Another area of expertise I've developed is that
 > of getting other people to handle the dangerous animals. ((Laughter.)) Won't
 > do it myself. Don't want to get bitten, do I? ((Laughter.)) You know what it
-> says on my book jackets? `Hobbies: gardening, with gloves; ((laughter))
+> says on my book jackets? 'Hobbies: gardening, with gloves; ((laughter))
 > fishing, with boots; travelling, with care.' That's the answer. What else?
 > Well in addition to the boots wear thick baggy trousers. And preferably have
 > half a dozen people trampling along in front of you making as much noise as
@@ -122,25 +122,25 @@ all americans you ain't know the difference anyway. ((Laughter.))
 > walking over a Death Adder and the twelfth person accidentally trod on it
 > and got bitten. Normally it's quite safe to get twelve in line. You're not
 > eating your cakes. Come on, get them down you, there's plenty more in the
-> venom fridge.'' ((Laughter.))
+> venom fridge." ((Laughter.))
 >
 > We asked, tentatively, if we could perhaps take a snake bite detector kit with
 > us to Komodo.
 >
-> ``Course you can, course you can. Take as many as you like. Won't do you a
-> blind bit of good because they're only for Australian snakes.'' ((Laughter.))
+> "Course you can, course you can. Take as many as you like. Won't do you a
+> blind bit of good because they're only for Australian snakes." ((Laughter.))
 >
-> ``So what do we do if we get bitten by something deadly, then?'' I asked.
+> "So what do we do if we get bitten by something deadly, then?" I asked.
 >
 > He blinked at me as if I were stupid. ((Laughter.))
 >
-> ``Well what do you think you do?'' he said. ``You die of course. That's what
-> deadly means.'' ((Laughter.))
+> "Well what do you think you do?" he said. "You die of course. That's what
+> deadly means." ((Laughter.))
 >
-> ``But what about cutting open the wound and sucking out the poison?''
+> "But what about cutting open the wound and sucking out the poison?"
 > I asked.
 >
-> ``Rather you than me,'' he said. ((Laughter.)) ``I wouldn't want a mouthful
+> "Rather you than me," he said. ((Laughter.)) "I wouldn't want a mouthful
 > of poison. Shouldn't do you any harm, though, snake toxins are of high
 > molecular weight so they wont penetrate the blood vessels in the mouth the
 > way that alcohol or some drugs do. And then the poison gets destroyed by the
@@ -149,11 +149,11 @@ all americans you ain't know the difference anyway. ((Laughter.))
 > you're probably going to make the wound a lot worse trying. And in a place
 > like Komodo it means you'd quickly have a seriously infected wound to contend
 > with well as a leg full of poison. Septicaemia, gangrene, you name it,
-> it'll kill you.''
+> it'll kill you."
 >
-> ``What about a tourniquet?'' I asked.
+> "What about a tourniquet?" I asked.
 >
-> ``Well, fine if you don't mind having your leg cut off afterwards. You'd have
+> "Well, fine if you don't mind having your leg cut off afterwards. You'd have
 > to because if you cut off the blood supply to it completely it will just die.
 > And if you can find anyone in that part of Indonesia who you'd trust to take
 > your leg off then you're a braver man than me. ((Laughter.)) No, I'll tell
@@ -165,30 +165,30 @@ all americans you ain't know the difference anyway. ((Laughter.))
 > If you're on Komodo that means a couple of days, by which time you'll be well
 > dead. ((Laughter.))
 >
-> ``Now, the only answer, and I mean this quite seriously, is don't get bitten.
+> "Now, the only answer, and I mean this quite seriously, is don't get bitten.
 > There's no reason why you should. Any of the snakes there will get out of
 > your way well before you even see them. You don't really need to worry about
 > the snakes if you're careful. No, the things you really need to worry about
-> are the marine creatures.''
+> are the marine creatures."
 >
-> ``What?'' ((Laughter.))
+> "What?" ((Laughter.))
 >
-> ``[[Scorpion fish]], [[stonefish]], [[sea snakes]]. Much more poisonous than
+> "[[Scorpion fish]], [[stonefish]], [[sea snakes]]. Much more poisonous than
 > anything on land. Get stung by a stonefish and the pain alone will kill you.
-> People drown themselves just to stop the pain.'' ((Laughter.))
+> People drown themselves just to stop the pain." ((Laughter.))
 >
-> ``Where are all these things?''
+> "Where are all these things?"
 >
-> ``Oh, just in the sea. Tons of them. I wouldn't go near it if I were you.
-> Full of poisonous animals. Hate them.'' ((Laughter.))
+> "Oh, just in the sea. Tons of them. I wouldn't go near it if I were you.
+> Full of poisonous animals. Hate them." ((Laughter.))
 >
-> ``Is there anything you do like?''
+> "Is there anything you do like?"
 >
-> ``Yes. Hydroponics.'' ((Laughter.))
+> "Yes. Hydroponics." ((Laughter.))
 >
-> ``No'', I said, ``I mean are there any poisonous creatures you're
-> particularly fond of?''
+> "No", I said, "I mean are there any poisonous creatures you're
+> particularly fond of?"
 >
 > He looked out of the window for a moment.
 >
-> ``There was,'' he said, ``but she left me.'' ((Laughter.)) ((Applause.))
+> "There was," he said, "but she left me." ((Laughter.)) ((Applause.))
