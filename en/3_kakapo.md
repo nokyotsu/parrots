@@ -54,13 +54,13 @@ So the Kakapo, as I say, had grown up in an environment without predators. And
 because they were all birds, and because nature has a way---as I say---very
 opportunistic and life will flow into any niche where it's possible to make a
 living, so---if I can be very naughty and anthropomorphise for a moment---it's
-as if some of the birds figured out, ``Well, this flying stuff is very very
+as if some of the birds figured out, "Well, this flying stuff is very very
 expensive. It takes a lot of energy, you have to eat a bit, fly a bit, eat a
 bit, fly a bit, because every time you eat something---you know---you weight
 down and it's heavier to fly, so eat a bit, fly a bit---I mean---there are
-other ways of life available.'' And so it's as if some of the birds said, ``Well,
+other ways of life available." And so it's as if some of the birds said, "Well,
 actually what we could do is we could settle in for a rather larger meal, and
-go for a waddle afterwards!'' ((Laughter.))
+go for a waddle afterwards!" ((Laughter.))
 
 And so gradually over many many generations a lot of the birds lost the
 ability to fly, they took up life on the ground. The [[Kiwi]], the most famous
@@ -113,10 +113,7 @@ in the pit of your stomach. You can only just sort of tune your hearing in to
 it. Now I never managed to get to hear it, but those who do say they feel it's
 a very *eerie* sound because you don't really hear it, you more kind of feel it.
 
-[^dsotm]: For those curious, there is a YouTube video of
-[the song and the particular sound][dsotm_video] that Douglas is referring to.
-
-[dsotm_video]: http://www.youtube.com/watch?v=QmjS37zDbPY
+[^dsotm]: For those curious, there is a YouTube video of [the song and the particular sound](https://youtu.be/HW-lXjOyUWo) that Douglas is referring to.
 
 And, it's bass sound. It's very very deep bass sound, just below our level of
 our hearing. Now it turns out that bass sound has two important
@@ -189,11 +186,11 @@ which is the thing that tends to bring about change. If you have a sudden
 dramatic change then there is no direction to go and you just have disaster.
 
 So, again if I can anthropomorphise for a moment, what seems to have happened
-is that the animal suddenly reaching a crisis in his population thinks, ``Whoa,
+is that the animal suddenly reaching a crisis in his population thinks, "Whoa,
 whoa! I better just do, do, what I do fantastically well, do what is my main
-thing, which is I reproduce really really slowly!'' ((Laughter.)) And its
-population goes down. ``Well, I'd better really do what I do, and reproduce
-really really really really slowly!'' And it seems absurd to us because we can
+thing, which is I reproduce really really slowly!" ((Laughter.)) And its
+population goes down. "Well, I'd better really do what I do, and reproduce
+really really really really slowly!" And it seems absurd to us because we can
 see a larger picture than they can. But if that is the type of behaviour that
 you've evolved successfully to produce, then to do anything else would be
 against kakapo-nature, would be an *inkakapo* thing to do. And it has nothing
