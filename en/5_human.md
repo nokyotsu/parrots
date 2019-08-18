@@ -1,3 +1,5 @@
+{% from "action_description.jnj" import describe, applause, laughter -%}
+
 ### The Human ###
 
 And, it's very peculiar to me that we are living at the moment in an
@@ -33,9 +35,9 @@ fundamental particles there, the atoms---made up of protons and neutrons with
 electrons spinning around them---and we also discover that they seem to consist
 frighteningly almost entirely of nothing. And that even when you *do* find
 something it turns out that it isn't actually there, it isn't actually a thing
-there, merely the possibility that there may be something there. ((Laughing.))
-It kind of doesn't feel as real as this ((hits podium with his hand)).
-((Laughing.))
+there, merely the possibility that there may be something there. {{ laughter('.') }}
+It kind of doesn't feel as real as this {{ describe('hits podium with his hand') }}.
+{{ laughter('.') }}
 
 So the next thing we do with sand was silicon, as we create the
 computer. And this finally enables us to start putting things together to see
@@ -114,7 +116,7 @@ thicker coat.
 Man, because we are able to make tools, we arrive in a new environment where
 it's much colder, and we don't have to wait for that process. Because we see
 an animal that's already got a thicker coat and we say we'll have it off him.
-((Laughter.))
+{{ laughter('.') }}
 And so we've kind of taken control of our environment, and that's all very
 well, but we need to be able to sort of rise above that process. We have to
 rise above that vision and see a higher vision---and understand the effect
@@ -133,11 +135,11 @@ keep me going. And here's a stream going through which has got fish running
 through it, and the water is delicious, and I drink the water, and everything's
 fantastic.
 
-"And there's my cousin Ug. And Ug has caught a mammoth! Yay!! ((claps)). Ug
+"And there's my cousin Ug. And Ug has caught a mammoth! Yay!! {{ describe('claps')}}. Ug
 has caught a mammoth! Mammoths are terrific! There's nothing greater than a
 mammoth, because a mammoth, basically you can wrap yourself in the fur from
 the mammoth, you can eat the meat of the mammoth, and you can use the bones of
-the mammoth, to catch other mammoths! ((Laughter.))
+the mammoth, to catch other mammoths! {{ laughter('.') }}
 
 "Now this world is a fantastically good world for me." And, part of how we
 come to take command of our world, to take command of our environment, to make
@@ -147,7 +149,7 @@ world," he says, "well, who ... so, so who made it?" Now, of course he
 thinks that, because he makes things himself, so he's looking for someone who
 will have *made* this world. He says, "So, who would have made this world?
 Well, it must be something a little bit like me. Obviously much much bigger,
-((laughing)) and necessarily invisible, ((laughter)) but he would have made
+{{ laughter() }} and necessarily invisible, {{ laughter() }} but he would have made
 it. Now, why did he make it?"
 
 Now, we always ask ourselves "why" because we look for intention around us,
@@ -155,17 +157,17 @@ because we always do something with intention. You know, we boil an
 egg in order to eat it. So, we look at the rocks and we look at the trees, and
 we wonder what intention is here, even though it doesn't have intention. So we
 think, what did this person who made this world intend it for. And this is the
-point where you think, "Well, it fits *me* very well. ((Laughter.)) You know,
+point where you think, "Well, it fits *me* very well. {{ laughter('.') }} You know,
 the caves and the forests, and the stream, and the mammoths.
 He must have made it for me! I mean, there's no other conclusion you can
 come to."
 
 And it's rather like a puddle waking up one morning---I know they don't normally
-do this, but allow me, I'm a science fiction writer. ((Laughter.)) A puddle
+do this, but allow me, I'm a science fiction writer. {{ laughter('.') }} A puddle
 wakes up one morning and thinks, "This is a very interesting world I find myself
 in. It fits me very neatly.
 In fact, it fits me so neatly, I mean, really precise, isn't it?
-((Laughter.)) It must have been made to have me in it!" And the sun rises, and
+{{ laughter('.') }} It must have been made to have me in it!" And the sun rises, and
 he's continuing to narrate the story about this hole being made to have him in
 it. And the sun rises, and gradually the puddle is shrinking and shrinking and
 shrinking, and by the time the puddle ceases to exist, it's still thinking,
@@ -176,7 +178,7 @@ that we've been destroying it, because we think we can do no harm.
 There's an awful lot of speculation one way or another at the moment, about
 whether there's life on other planets or not. Carl Sagan, as you know, was
 very keen on the idea that there must be. The sheer numbers dictate, because
-there are billions and billions and billions ((laughter))---as he famously did
+there are billions and billions and billions {{ laughter() }}---as he famously did
 not say, in fact---of worlds out there, so the chance must be that there's other
 intelligent life out there. There are other voices at the moment you'll hear
 saying, well actually if you look at the set of circumstances here on Earth,
@@ -185,7 +187,7 @@ like this out there, are actually pretty remote.
 Now, in a way it doesn't matter. Because think of this---I mean Carl Sagan, I
 think, himself, said this. There are two possibilities: either there is life
 out there on other planets, or there is no life out there on other planets.
-They are both utterly extraordinary ideas! ((Laughter.)) But, there is a strong
+They are both utterly extraordinary ideas! {{ laughter('.') }} But, there is a strong
 possibility that there isn't anything out there remotely like this. And we are
 behaving as if this planet, this extraordinary, utterly, utterly extraordinary
 little ball of life, is something we can just screw about with any way we
@@ -208,4 +210,4 @@ made way for us. Without that extinction, we would not be here.
 So, the world is fine. We don't have to save the world---the world is big
 enough to look after itself. What we have to be concerned about, is whether or
 not the world we live in, will be capable of sustaining us in it. That's what
-we need to think about. Thank you very much ladies and gentlemen. ((Applause.))
+we need to think about. Thank you very much ladies and gentlemen. {{ applause('.') }}
