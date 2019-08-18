@@ -1,12 +1,16 @@
-html {
-  font-family: "Droid Serif", sans-serif;
-  line-height: 1.15;
+body {
+  font: 400 18px/1.42 "Droid Serif", sans-serif;
+  color: rgba(0, 0, 0, .86);
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+  margin: 0;
 }
 
-body {
-  margin: 0;
+article {
+  line-height: 1.62;
+  max-width: 760px;
+  padding: 80px 18px 30px;
+  margin: 0 auto;
 }
 
 .action-description {
