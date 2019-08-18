@@ -1,6 +1,11 @@
-{%- filter markdown -%}
-# Parrots, the Universe and Everything
+{%- extends "templates/base.html" -%}
 
+{%- set page = {
+  'title': 'Parrots, the Universe and Everything',
+  'subtitle': 'Full Transcript'
+} -%}
+
+{%- block content -%}
 This is one of the last public appearances of [[Douglas Adams]] in which he talks
 about his book, [[Last Chance to See]], coauthored with [[Mark Carwardine]].
 The talk was given at the University of California, Santa Barbara, and recorded
@@ -36,4 +41,4 @@ to other languages.
 
 (c) Copyright 2001. Regents of the University of California. All Rights
 Reserved.
-{%- endfilter -%}
+{%- endblock -%}
