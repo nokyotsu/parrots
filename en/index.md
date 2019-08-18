@@ -2,7 +2,16 @@
 
 {%- set page = {
   'title': 'Parrots, the Universe and Everything',
-  'subtitle': 'Full Transcript'
+  'subtitle': 'Full Transcript',
+  'sections': [
+      'en/0_intro.md',
+      'en/1_ayeaye.md',
+      'en/2_komodo.md',
+      'en/3_kakapo.md',
+      'en/4_yangtze.md',
+      'en/5_human.md',
+      'en/6_questions.md',
+  ]
 } -%}
 
 {%- block content -%}
@@ -25,19 +34,10 @@ to other languages.
 
 # Tanscript
 
-{% include "en/0_intro.md" %}
+{% for section in page.sections %}
+  {% include section %}
 
-{% include "en/1_ayeaye.md" %}
-
-{% include "en/2_komodo.md" %}
-
-{% include "en/3_kakapo.md" %}
-
-{% include "en/4_yangtze.md" %}
-
-{% include "en/5_human.md" %}
-
-{% include "en/6_questions.md" %}
+{% endfor %}
 
 (c) Copyright 2001. Regents of the University of California. All Rights
 Reserved.
