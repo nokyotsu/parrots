@@ -1,0 +1,7 @@
+{%- macro describe(text) -%}
+<span style="color:blue;">({{ text }})</span>
+{%- endmacro -%}
+
+{%- macro laughter(sentence=None) -%}
+{{ describe('Laughter.' if sentence else 'laughter')}}
+{%- endmacro -%}

@@ -1,4 +1,4 @@
-{% from "macros.jnj" import laughter -%}
+{% from "audio_describe.jnj" import laughter -%}
 
 ### Introduction ###
 
