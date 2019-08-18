@@ -1,9 +1,11 @@
+{% from "macros.jnj" import laughter -%}
+
 ### Introduction ###
 
 Thank you very much, ladies and gentlemen.
 
 It's a very interesting, and unusual, and weird experience for me to be talking
-in my home town. Which is ... ((Laughter.))
+in my home town. Which is ... {{ laughter('.') }}
 
 Now, amongst the books that [Constance](http://www.carseywolf.ucsb.edu/constance-penley) mentioned when she's introducing me,
 *The Hitchhiker's Guide, Dirk Gently* and so on, it was not my favourite book. And

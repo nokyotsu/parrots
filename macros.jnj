@@ -1,0 +1,3 @@
+{% macro laughter(sentence=None) -%}
+<span style="color:blue;">({% if sentence %}Laugher.{% else %}laughter{% endif %})</span>
+{%- endmacro %}
