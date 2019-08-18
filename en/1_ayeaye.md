@@ -1,4 +1,4 @@
-{% from "action_description.jnj" import describe, laughter -%}
+{% from "macros/action_description.jnj" import describe, laughter -%}
 
 ## The Aye-aye
 

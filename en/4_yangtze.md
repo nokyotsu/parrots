@@ -1,4 +1,4 @@
-{% from "action_description.jnj" import applause, laughter -%}
+{% from "macros/action_description.jnj" import applause, laughter -%}
 
 ## The Yangtze River Dolphin
 

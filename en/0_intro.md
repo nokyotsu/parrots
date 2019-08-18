@@ -1,4 +1,4 @@
-{% from "action_description.jnj" import laughter -%}
+{% from "macros/action_description.jnj" import laughter -%}
 
 ## Introduction
 

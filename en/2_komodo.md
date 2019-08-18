@@ -1,4 +1,4 @@
-{% from "action_description.jnj" import describe, applause, laughter -%}
+{% from "macros/action_description.jnj" import describe, applause, laughter -%}
 
 ## The Komodo Dragon Lizard
 
