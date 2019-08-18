@@ -1,5 +1,5 @@
 {%- macro describe(text) -%}
-<span style="color:blue;">({{ text }})</span>
+<span class="action-description">({{ text }})</span>
 {%- endmacro -%}
 
 {%- macro laughter(sentence=None) -%}
