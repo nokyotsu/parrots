@@ -1,6 +1,6 @@
 {% from "action_description.jnj" import laughter -%}
 
-### Introduction ###
+## Introduction
 
 Thank you very much, ladies and gentlemen.
 

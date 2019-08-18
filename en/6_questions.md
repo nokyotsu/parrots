@@ -1,6 +1,6 @@
 {% from "action_description.jnj" import describe, applause, laughter -%}
 
-### Questions and answers ###
+## Questions and answers
 
 And now if anybody has any questions, I'm very happy to take questions, and
 there are microphones down here at the front so I suggest you use them.
@@ -127,6 +127,3 @@ on inventing it even though it works, because it's the way of getting
 ourselves off local maximums isn't it?
 
 I think that's all I have to say there. Thanks. {{ laughter('.') }} {{ applause('.') }}
-
-(c) Copyright 2001. Regents of the University of California. All Rights
-Reserved.

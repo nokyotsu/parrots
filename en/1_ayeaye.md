@@ -1,6 +1,6 @@
 {% from "action_description.jnj" import describe, laughter -%}
 
-### The Aye-aye ###
+## The Aye-aye
 
 Sometime in about the mid 1980s, the phone rang. {{ laughter('.') }}
 
