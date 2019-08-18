@@ -5,3 +5,7 @@
 {%- macro laughter(sentence=None) -%}
 {{ describe('Laughter.' if sentence else 'laughter')}}
 {%- endmacro -%}
+
+{%- macro applause(sentence=None) -%}
+{{ describe('Applause.' if sentence else 'applause')}}
+{%- endmacro -%}

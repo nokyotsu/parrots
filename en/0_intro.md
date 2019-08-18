@@ -1,4 +1,4 @@
-{% from "audio_describe.jnj" import laughter -%}
+{% from "action_description.jnj" import laughter -%}
 
 ### Introduction ###
 
