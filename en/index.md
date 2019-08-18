@@ -30,7 +30,7 @@ create subtitles in English, Greek, Spanish and French. At amara.org you can
 watch [the subtitled video][subtitled] and contribute providing translations
 to other languages.
 
-[subtitled]: http://amara.org/en/videos/yoedZnaqoAov/info/douglas-adams-parrots-the-universe-and-everything/
+[subtitled]: https://amara.org/en/videos/yoedZnaqoAov/info/douglas-adams-parrots-the-universe-and-everything/
 
 # Tanscript
 

@@ -105,7 +105,7 @@ out this great sort of air-sacks around his chest. And it sits there---and these
 are reverberation chambers, this is a kind of reverberation chamber---and it
 sits there and for night after night after night for a hundred nights of the
 year, for eight hours of the night, it performs the opening bars of
-[[The Dark Side of the Moon]].[^dsotm] {{ laughter('.') }}
+[[The Dark Side of the Moon]].[^dark-side-of-the-moon] {{ laughter('.') }}
 Now, I see some grey hairs here so you'll know the album I'm referring to.
 {{ laughter('.') }}
 Which as you remember starts with this great sort of *boom*, *boom*, *boom*,
@@ -115,7 +115,7 @@ in the pit of your stomach. You can only just sort of tune your hearing in to
 it. Now I never managed to get to hear it, but those who do say they feel it's
 a very *eerie* sound because you don't really hear it, you more kind of feel it.
 
-[^dsotm]: For those curious, there is a YouTube video of [the song and the particular sound](https://youtu.be/HW-lXjOyUWo) that Douglas is referring to.
+[^dark-side-of-the-moon]: For those curious, there is a YouTube video of [the song and the particular sound](https://youtu.be/HW-lXjOyUWo) that Douglas is referring to.
 
 And, it's bass sound. It's very very deep bass sound, just below our level of
 our hearing. Now it turns out that bass sound has two important

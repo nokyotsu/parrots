@@ -221,9 +221,9 @@ there it was ten years ago, there were two hundred of these left, today there
 are twenty. And because the Chinese are building these giant dams to dam the
 Yangtze at one of the most beautiful and most spectacular sites in all world,
 the [[Three Gorges]], and they're damming it there which means that the Yangtze
-Dolphin will at that point definitely go extinct.[^extinct]
+Dolphin will at that point definitely go extinct.[^yangtze-extinct]
 
-[^extinct]: According to Wikipedia, the [[Yangtze River Dolphin]] was indeed declared as functionally extinct as of 2006.
+[^yangtze-extinct]: According to Wikipedia, the [[Yangtze River Dolphin]] was indeed declared functionally extinct as of 2006.
 
 And it's terribly sad. The peculiar thing about dams is that we keep on
 building them and none of them ever do any good. It's not quite true, because
