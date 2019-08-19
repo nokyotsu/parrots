@@ -1,3 +1,5 @@
+{%- filter css_compress -%}
+
 body {
   font: 400 18px/1.42 "Droid Serif", sans-serif;
   color: rgba(0, 0, 0, .86);
@@ -16,3 +18,5 @@ article {
 .action-description {
   color: #666;
 }
+
+{%- endfilter -%}
