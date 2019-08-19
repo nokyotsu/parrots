@@ -1,5 +1,9 @@
 {%- filter css_compress -%}
 
+:root{
+  --primary-color: #BC6262;
+}
+
 body {
   font: 400 18px/1.42 "Droid Serif", sans-serif;
   color: rgba(0, 0, 0, .86);
@@ -13,6 +17,17 @@ article {
   max-width: 760px;
   padding: 80px 18px 30px;
   margin: 0 auto;
+}
+
+article a {
+  color: rgba(0, 0, 0, .98);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0, 0, 0, .26);
+}
+
+article a:hover{
+  color: var(--primary-color);
+  border-color: var(--primary-color);
 }
 
 .action-description {
