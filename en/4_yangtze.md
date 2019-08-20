@@ -1,6 +1,6 @@
 {% from "macros/action_description.jnj" import applause, laughter -%}
 
-### The Yangtze River Dolphin
+## The Yangtze River Dolphin
 
 There is another animal we went to find, it is in even worse trouble now. And
 this is the Baiji, the [[Yangtze River Dolphin]], which is an almost blind river

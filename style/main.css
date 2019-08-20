@@ -5,17 +5,51 @@
 }
 
 body {
-  font: 400 18px/1.42 "Droid Serif", sans-serif;
+  text-rendering: optimizeLegibility;
+  font: 400 18px/1.62 "Droid Serif", sans-serif;
   color: rgba(0, 0, 0, .86);
   background-color: white;
   margin: 0;
 }
 
 main {
-  line-height: 1.62;
-  max-width: 760px;
   padding: 80px 18px 30px;
+  max-width: 760px;
   margin: 0 auto;
+}
+
+header, h1, h2 {
+  font-family: system-ui, "Helvetica Neue";
+}
+
+header {
+  margin-bottom: 1.64em;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 2.2em;
+  line-height: 1.1;
+  letter-spacing: .02em;
+  margin: .42em 0 .1em;
+}
+
+header p {
+  font-weight: 300;
+  font-size: 1.42em;
+  color: rgba(0, 0, 0, .42);
+  margin: 0;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 1.42em;
+  margin: 1.42em 0 .4em;
+}
+
+p {
+  margin: 0 0 1.12em;
+  hyphens: auto;
 }
 
 main a {

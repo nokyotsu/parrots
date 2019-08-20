@@ -9,7 +9,10 @@
 </head>
 <body>
   <main>
-  <h1>{{ page.title }}</h1>
+  <header>
+    <h1>{{ page.title }}</h1>
+    <p>{{ page. subtitle }}</p>
+  </header>
   {%- filter markdown -%}
     {%- block content -%}{%- endblock -%}
   {%- endfilter -%}

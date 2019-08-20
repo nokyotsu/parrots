@@ -1,6 +1,6 @@
 {% from "macros/action_description.jnj" import applause, laughter -%}
 
-### The Kakapo
+## The Kakapo
 
 Anyway, in fact my favourite of all the animals we went to see, my favourite,
 was an animal called the [[Kakapo]]. And the Kakapo is a kind of parrot. It

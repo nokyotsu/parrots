@@ -1,6 +1,6 @@
 {% from "macros/action_description.jnj" import describe, applause, laughter -%}
 
-### The Komodo Dragon Lizard
+## The Komodo Dragon Lizard
 
 And so we did. Now, there was a pause at that moment because I had a couple of
 novels I've just been contracted to write. So I wrote
