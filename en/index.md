@@ -32,7 +32,7 @@ to other languages.
 
 [subtitled]: https://amara.org/en/videos/yoedZnaqoAov/info/douglas-adams-parrots-the-universe-and-everything/
 
-# Tanscript
+## Tanscript
 
 {% for section in page.sections %}
   {% include section %}
