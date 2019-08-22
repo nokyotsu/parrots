@@ -37,6 +37,8 @@ to other languages.
 
 {% endfor %}
 
-(c) Copyright 2001. Regents of the University of California. All Rights
+<p class="action-description">
+&copy; Copyright 2001. Regents of the University of California. All Rights
 Reserved.
+</p>
 {%- endblock -%}

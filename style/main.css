@@ -1,9 +1,5 @@
 {%- filter css_compress -%}
 
-:root{
-  --primary-color: #BC6262;
-}
-
 body {
   text-rendering: optimizeLegibility;
   font: 400 18px/1.62 "Droid Serif", sans-serif;
@@ -59,8 +55,35 @@ main a {
 }
 
 main a:hover{
-  color: var(--primary-color);
-  border-color: var(--primary-color);
+  color: #BC6262;
+  border-color: #BC6262;
+}
+
+.footnote-ref a {
+  display: inline-block;
+  text-indent: 0;
+  width: 14px;
+  text-align: center;
+  font: 700 8px/14px system-ui, "Helvetica Neue";
+  border-bottom: 0;
+  background-color: rgba(0, 0, 0, .18);
+  color: #fff;
+  vertical-align: middle;
+  margin-left: 2px;
+}
+
+.footnotes {
+  margin-top: 60px;
+  font-size: 80%;
+  line-height: 1.32;
+  opacity: .96;
+}
+
+.footnotes ol {
+  max-width: 680px;
+  list-style-type: decimal;
+  margin: 0 0 12px 4px;
+  padding-left: 16px;
 }
 
 .action-description {
