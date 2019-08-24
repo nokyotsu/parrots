@@ -59,6 +59,10 @@ main a:hover{
   border-color: #BC6262;
 }
 
+.action-description {
+  color: rgba(0, 0, 0, .5);
+}
+
 .footnote-ref a {
   display: inline-block;
   text-indent: 0;
@@ -72,22 +76,18 @@ main a:hover{
   margin-left: 2px;
 }
 
-.footnotes {
+footer {
   margin-top: 60px;
   font-size: 80%;
   line-height: 1.32;
   opacity: .96;
 }
 
-.footnotes ol {
+footer ol {
   max-width: 680px;
   list-style-type: decimal;
   margin: 0 0 12px 4px;
   padding-left: 16px;
-}
-
-.action-description {
-  color: rgba(0, 0, 0, .5);
 }
 
 {%- endfilter -%}

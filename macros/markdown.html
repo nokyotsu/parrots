@@ -1,6 +1,23 @@
+{%- macro footnote_ref(key, index) -%}
+<sup class="footnote-ref" id="ref-{{ key }}"><a href="#{{ key
+  }}">{{ index }}</a></sup>
+{%- endmacro -%}
+
+{%- macro footnote_item(key, text) -%}
+<li id="{{ key }}">
+  {%- if text.endswith('</p>') -%}
+    {{ text[:-4]}}&nbsp;<a href="#ref-{{ key }}">&#8617;</a></p>
+  {%- else -%}
+    {{ text }}<p><a href="#ref-{{ key }}">&#8617;</a></p>
+  {%- endif -%}
+</li>
+{% endmacro -%}
+
 {% macro footnotes(text) %}
-<div class="footnotes">
-  <h3>The footnotes</h3>
-  <ol>{{ text }}</ol>
-</div>
+<footer>
+<hr>
+<ol>
+{{ text -}}
+</ol>
+</footer>
 {% endmacro %}
