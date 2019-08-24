@@ -3,6 +3,7 @@
 {%- set page = {
   'title': 'Parrots, the Universe and Everything',
   'subtitle': 'Full Transcript',
+  'url': 'https://nokyotsu.com/parrots/',
   'sections': [
       'en/0_intro.md',
       'en/1_ayeaye.md',
@@ -20,7 +21,10 @@ about his book, [[Last Chance to See]], coauthored with [[Mark Carwardine]].
 The talk was given at the University of California, Santa Barbara, and recorded
 about a month before his death.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_ZG8HBuDjgc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<amp-youtube
+    data-videoid="_ZG8HBuDjgc"
+    layout="responsive"
+    width="560" height="315"></amp-youtube>
 
 Below you can find the full transcript in English---completed with the help of
 many anonymous contributors---with links and a few extra notes.
