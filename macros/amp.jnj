@@ -1,0 +1,6 @@
+{%- macro youtube(id, width, height) -%}
+<amp-youtube
+    data-videoid="{{ id }}"
+    layout="responsive"
+    width="{{ width }}" height="{{ height }}"></amp-youtube>
+{%- endmacro -%}

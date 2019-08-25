@@ -1,4 +1,5 @@
 {%- extends "templates/base.html" -%}
+{%- import "macros/amp.jnj" as amp -%}
 
 {%- set page = {
   'title': 'Parrots, the Universe and Everything',
@@ -21,10 +22,7 @@ about his book, [[Last Chance to See]], coauthored with [[Mark Carwardine]].
 The talk was given at the University of California, Santa Barbara, and recorded
 about a month before his death.
 
-<amp-youtube
-    data-videoid="_ZG8HBuDjgc"
-    layout="responsive"
-    width="560" height="315"></amp-youtube>
+{{ amp.youtube(id='_ZG8HBuDjgc', width=560, height=315) }}
 
 Below you can find the full transcript in English---completed with the help of
 many anonymous contributors---with links and a few extra notes.
