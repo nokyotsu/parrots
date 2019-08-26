@@ -32,7 +32,7 @@ In this lecture he talks about his experiences researching and writing for his b
 
 * **August 2019.** [nokyotsu][] makes a few tweaks to the sources, and updates
   the rendering mechanism (a customised [mistune][] for markdown parsing and
-  [jinja2][] templates). The rendered page is now made available at
+  [jinja][] templates). The rendered page is now made available at
   [nokyotsu.github.io/parrots](https://nokyotsu.github.io/parrots/).
 
 * **August 2015.** [nokyotsu][] moves the sources of the transcript into this public
@@ -78,4 +78,4 @@ In this lecture he talks about his experiences researching and writing for his b
 [maldoreur]: https://amara.org/en/profiles/profile/91116/
 [arnauld]: https://amara.org/en/profiles/profile/390531/
 [mistune]: https://mistune.readthedocs.io/
-[jinja2]: https://jinja.palletsprojects.com/
+[jinja]: https://jinja.palletsprojects.com/
