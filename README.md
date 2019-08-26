@@ -6,15 +6,16 @@ California, Santa Barbara (UCSB)][UCSB] in 2001 shortly before his dead.
 In this lecture he talks about his experiences researching and writing for his book,
 [Last Chance to See][], coauthored with [Mark Carwardine][].
 
-[Douglas Adams]: http://en.wikipedia.org/wiki/Douglas_Adams
-[UCSB]: http://www.ucsb.edu/
-[Last Chance to See]: http://en.wikipedia.org/wiki/Last_Chance_to_See
-[Mark Carwardine]: http://en.wikipedia.org/wiki/Mark_Carwardine
+[Douglas Adams]: https://en.wikipedia.org/wiki/Douglas_Adams
+[UCSB]: https://www.ucsb.edu/
+[Last Chance to See]: https://en.wikipedia.org/wiki/Last_Chance_to_See
+[Mark Carwardine]: https://en.wikipedia.org/wiki/Mark_Carwardine
 
 ## Links
 
-* The [full transcript in English](http://nokyotsu.com/parrots/), with additional notes
-  and hyperlinks. Rendered directly from the sources in this repository.
+* The [full transcript in English](https://nokyotsu.github.io/parrots/), with
+  additional notes and hyperlinks. Rendered directly from the sources in this
+  repository.
 
 * The [subtitled video in amara.org][subs]. Currently there are subtitles in
   [English][subs_en] and [Greek][subs_el].
@@ -22,9 +23,9 @@ In this lecture he talks about his experiences researching and writing for his b
 
 * The [original video on YouTube][video], kindly provided by UCSB.
 
-[subs]: http://amara.org/en/videos/yoedZnaqoAov/info/douglas-adams-parrots-the-universe-and-everything/
-[subs_en]: http://amara.org/en/videos/yoedZnaqoAov/en/230539/
-[subs_el]: http://amara.org/en/videos/yoedZnaqoAov/el/37982/
+[subs]: https://amara.org/en/videos/yoedZnaqoAov/info/douglas-adams-parrots-the-universe-and-everything/
+[subs_en]: https://amara.org/en/videos/yoedZnaqoAov/en/230539/
+[subs_el]: https://amara.org/en/videos/yoedZnaqoAov/el/37982/
 [video]: https://www.youtube.com/watch?v=_ZG8HBuDjgc
 
 ## History
@@ -48,13 +49,13 @@ In this lecture he talks about his experiences researching and writing for his b
   subtitles with the UCSB video at amara.org.
 
 * **June 2011.** [nokyotsu][] publishes a series of blog posts at
-  [*Pedazos de Carbono*](http://pedazosdecarbono.blogspot.com/) translating the
+  [*Pedazos de Carbono*](https://pedazosdecarbono.blogspot.com/) translating the
   transcript into Spanish:
-  [*el aye-aye*](http://pedazosdecarbono.blogspot.com/2011/06/loros-el-universo-y-todo-el-aye-aye.html),
-  [*Komodo*](http://pedazosdecarbono.blogspot.com/2011/06/loros-el-universo-y-todo-komodo.html),
-  [*el kakapo*](http://pedazosdecarbono.blogspot.com/2011/06/loros-el-universo-y-todo-el-kakapo.html),
-  [*el baiji*](http://pedazosdecarbono.blogspot.com/2011/06/loros-el-universo-y-todo-el-kakapo.html), and
-  [*el humano*](http://pedazosdecarbono.blogspot.com/2011/07/loros-el-universo-y-todo-el-humano.html).
+  [*el aye-aye*](https://pedazosdecarbono.blogspot.com/2011/06/loros-el-universo-y-todo-el-aye-aye.html),
+  [*Komodo*](https://pedazosdecarbono.blogspot.com/2011/06/loros-el-universo-y-todo-komodo.html),
+  [*el kakapo*](https://pedazosdecarbono.blogspot.com/2011/06/loros-el-universo-y-todo-el-kakapo.html),
+  [*el baiji*](https://pedazosdecarbono.blogspot.com/2011/06/loros-el-universo-y-todo-el-kakapo.html), and
+  [*el humano*](https://pedazosdecarbono.blogspot.com/2011/07/loros-el-universo-y-todo-el-humano.html).
 
 * **May 2011.** Nearly a year after the project started the transcript was all completed
   by anonymous contributors. Although there were no more missing bits in the text, small
@@ -74,7 +75,7 @@ In this lecture he talks about his experiences researching and writing for his b
   bunch of messy perl scripts on top of svn.
 
 [nokyotsu]: https://github.com/nokyotsu
-[maldoreur]: http://amara.org/en/profiles/profile/91116/
-[arnauld]: http://amara.org/en/profiles/profile/390531/
+[maldoreur]: https://amara.org/en/profiles/profile/91116/
+[arnauld]: https://amara.org/en/profiles/profile/390531/
 [mistune]: https://mistune.readthedocs.io/
 [jinja2]: https://jinja.palletsprojects.com/
