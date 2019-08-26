@@ -18,14 +18,16 @@ In this lecture he talks about his experiences researching and writing for his b
   repository.
 
 * The [subtitled video in amara.org][subs]. Currently there are subtitles in
-  [English][subs_en] and [Greek][subs_el].
+  [English][subs_en], [Spanish][subs_es], [French][subs_fr], and [Greek][subs_el].
   There you can also contribute providing translations into other languages.
 
 * The [original video on YouTube][video], kindly provided by UCSB.
 
 [subs]: https://amara.org/en/videos/yoedZnaqoAov/info/douglas-adams-parrots-the-universe-and-everything/
-[subs_en]: https://amara.org/en/videos/yoedZnaqoAov/en/230539/
-[subs_el]: https://amara.org/en/videos/yoedZnaqoAov/el/37982/
+[subs_en]: https://amara.org/en/videos/yoedZnaqoAov/en/
+[subs_es]: https://amara.org/en/videos/yoedZnaqoAov/es/
+[subs_fr]: https://amara.org/en/videos/yoedZnaqoAov/fr/
+[subs_el]: https://amara.org/en/videos/yoedZnaqoAov/el/
 [video]: https://www.youtube.com/watch?v=_ZG8HBuDjgc
 
 ## History
